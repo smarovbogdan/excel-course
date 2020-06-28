@@ -1,0 +1,25 @@
+{
+  "name": "excel-courses",
+  "version": "1.0.0",
+  "description": "Pure Javascript Ecxel Apllication",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smarovbogdan/excel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Shmarov Bohdan <smarovbogdan1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smarovbogdan/excel-course/issues"
+  },
+  "homepage": "https://github.com/smarovbogdan/excel-course#readme",
+  "private": true
+}
